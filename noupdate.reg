@@ -1,0 +1,6 @@
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+"NoAutoUpdate"=dword:00000001
+"DetectionFrequencyEnabled"=dword:00000000
+"AutoInstallMinorUpdates"=dword:00000000
+"IncludeRecommendedUpdates"=dword:00000000
+"AUOption"=dword:00000001
